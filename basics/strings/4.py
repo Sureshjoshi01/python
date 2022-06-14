@@ -1,0 +1,6 @@
+rym = input("Enter any Nursery rhyme : ")
+x = len(rym)
+print("Lenght of ryme : ", x)
+snum = int(input("Enter starting number : "))
+enum = int(input("Enter Ending number : "))
+print(rym[snum:enum])

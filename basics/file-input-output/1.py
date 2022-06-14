@@ -1,0 +1,7 @@
+file = open("Numbers.txt","w")
+file.write("23,")
+file.write("45,")
+file.write("67,")
+file.write("89,")
+file.write("80,")
+file.close()
