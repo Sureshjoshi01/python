@@ -1,4 +1,5 @@
-# Program to check number is Odd Or Even
+# Ask the user for a number. 
+# Depending on whether the number is even or odd, print out an appropriate message to the user.
 
 num = input("Enter a number : ")
 check = input("Enter second number : ")
