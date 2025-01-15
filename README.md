@@ -18,7 +18,7 @@ https://leetcode.com/problemset/
 DevOps Challenges -- 
 
  Write a Python script that reads a log file and counts the number of occurrences of each status code (e.g., 200, 404, etc.).
- rite a Python function that retrieves data from a public API (e.g., https://jsonplaceholder.typicode.com/posts) and returns the titles of the posts.
+ write a Python function that retrieves data from a public API (e.g., https://jsonplaceholder.typicode.com/posts) and returns the titles of the posts.
  Given a list of dictionaries representing users, write a function that transforms this list into a dictionary where the keys are user IDs and the values are user names.
  Write a function to check if a given string is an anagram of another string.
  Write a Python script that fetches data from multiple URLs concurrently using threads.
