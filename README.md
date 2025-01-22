@@ -15,6 +15,8 @@ Basics to advance ---
 https://exercism.org/tracks/python/exercises
 https://leetcode.com/problemset/
 
+
+
 DevOps Challenges -- 
 
  Write a Python script that reads a log file and counts the number of occurrences of each status code (e.g., 200, 404, etc.).
