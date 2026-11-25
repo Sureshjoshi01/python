@@ -1,0 +1,13 @@
+127.0.0.1 - - [2023-10-01T10:00:00] "GET /index.html HTTP/1.1" 200 2048
+127.0.0.1 - - [2023-10-01T10:00:02] "GET /about.html HTTP/1.1" 200 1500
+127.0.0.1 - - [2023-10-01T10:00:05] "GET /nonexistent-page.html HTTP/1.1" 404 512
+127.0.0.1 - - [2023-10-01T10:00:07] "POST /submit-form HTTP/1.1" 201 1024
+127.0.0.1 - - [2023-10-01T10:00:10] "GET /old-page.html HTTP/1.1" 301 512
+127.0.0.1 - - [2023-10-01T10:00:11] "GET /redirected-page.html HTTP/1.1" 200 1800
+127.0.0.1 - - [2023-10-01T10:00:15] "GET /forbidden-page.html HTTP/1.1" 403 512
+127.0.0.1 - - [2023-10-01T10:00:20] "GET /server-error HTTP/1.1" 500 1024
+127.0.0.1 - - [2023-10-01T10:00:25] "GET /another-page.html HTTP/1.1" 200 2000
+127.0.0.1 - - [2023-10-01T10:00:30] "PUT /update-resource HTTP/1.1" 204 0
+127.0.0.1 - - [2023-10-01T10:00:35] "DELETE /remove-resource HTTP/1.1" 404 256
+127.0.0.1 - - [2023-10-01T10:00:40] "GET /temp-redirect HTTP/1.1" 302 512
+127.0.0.1 - - [2023-10-01T10:00:45] "GET /not-implemented HTTP/1.1" 501 128

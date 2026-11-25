@@ -1,0 +1,13 @@
+Office Tasks Today -- 
+1) [ENG-273353] Migrate team from IAM keys to vault provided keys,MR merge and code push    - Done 
+2) [ENG-215044] Investigate Alerts from Guardduty                                           - Done 
+3) [ENG-270077] Investigate AWS Shield Protection for Mentor Sdd Account                    - Done 
+4) [ENG-215221] Investigate Common Module for Patching AWS EC2 instances                    - Done 
+5) Python Dict Exercises Finis by today                                  - Not Done    
+6) Terragrunt Course Continuation                                        - This needed to be practiced
+7) Gitlab Course Continue                                                - Not Done  
+8) Aws AI practitioner course Complete by 8th Nov                        - Not Done 
+9) PF transfer                                                           - Not Done   
+10) Finance Check                                                         - Done
+11) Doctor visit for Vitamin D Deficiency                                 -   
+12) Amazon Prime subscription Renew Check                                 - 
